@@ -4,6 +4,7 @@ class Demo
 	{
 		int a=10;
 		System.out.println("demo class");
+System.out.println("demo class1");     
 	}
 }
 
