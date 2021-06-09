@@ -1,2 +1,6 @@
      this is text 1 file
          i am creating it today in txt1
+
+                   show my modifications 
+                   show in plus symbol
+                   show in green colour 
