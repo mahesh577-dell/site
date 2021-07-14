@@ -1,3 +1,4 @@
  this is logo file
  hey everyone 
- today class is there  
+ today class is there
+ skipping stage area 
